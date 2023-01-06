@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-merged_res-20:\\layout_view_model_title.xml.flat",
+        "source": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-main-22:\\layout\\view_model_title.xml"
+    },
+    {
+        "merged": "com.ar.app-merged_res-20:/raw_wip_akane_tendo.glb.flat",
+        "source": "com.ar.app-main-22:/raw/wip_akane_tendo.glb"
+    },
+    {
+        "merged": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-merged_res-20:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-main-22:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-merged_res-20:\\raw_small_tree.glb.flat",
+        "source": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-main-22:\\raw\\small_tree.glb"
+    },
+    {
+        "merged": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-merged_res-20:\\drawable_rounded_bg.xml.flat",
+        "source": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-main-22:\\drawable\\rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-merged_res-20:\\raw_redhead_party_dress_girl.glb.flat",
+        "source": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-main-22:\\raw\\redhead_party_dress_girl.glb"
+    },
+    {
+        "merged": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-merged_res-20:\\raw_pivot_demo_journey.glb.flat",
+        "source": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-main-22:\\raw\\pivot_demo_journey.glb"
+    },
+    {
+        "merged": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-merged_res-20:\\raw_banana_girl.glb.flat",
+        "source": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-main-22:\\raw\\banana_girl.glb"
+    },
+    {
+        "merged": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-merged_res-20:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rajit\\.gradle\\daemon\\7.4\\com.ar.app-main-22:\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AR.iml" filepath="$PROJECT_DIR$/.idea/modules/AR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AR.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AR.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AR.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AR.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AR.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AR.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AR.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AR.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/AR.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/AR.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/AR.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/AR.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/AR.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/AR.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/AR.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/AR.core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneform/AR.sceneform.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneform/AR.sceneform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneform/AR.sceneform.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneform/AR.sceneform.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneform/AR.sceneform.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneform/AR.sceneform.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneform/AR.sceneform.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneform/AR.sceneform.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ux/AR.ux.iml" filepath="$PROJECT_DIR$/.idea/modules/ux/AR.ux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ux/AR.ux.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ux/AR.ux.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ux/AR.ux.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ux/AR.ux.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ux/AR.ux.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ux/AR.ux.unitTest.iml" />
+    </modules>
+  </component>
+</project>
